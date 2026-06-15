@@ -1,0 +1,2 @@
+Python is awesome.
+AI Agents use tools.
